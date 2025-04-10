@@ -1254,3 +1254,28 @@
 </body>
 </html>
 
+[11:15:10 | 10-04-2025] Wallet Address: 0x5Fd5002B4A5650b73A3138dCF101f3E5243D5d01
+[11:15:10 | 10-04-2025] Node Points: 980879
+[11:15:10 | 10-04-2025] Last Claim Point: 08/04/2025 16:15:18
+[11:15:11 | 10-04-2025] 🚨 Failed to claim points for 0x5Fd5002B4A5650b73A3138dCF101f3E5243D5d01: <!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot POST /api/light-node/claim-node-points</pre>
+</body>
+</html>
+
+[11:15:12 | 10-04-2025] 🚨 Failed to start node for 0x5Fd5002B4A5650b73A3138dCF101f3E5243D5d01: <!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot POST /api/light-node/node-action/0x5Fd5002B4A5650b73A3138dCF101f3E5243D5d01/start</pre>
+</body>
+</html>
+
